@@ -1,0 +1,1 @@
+A pump scheduling optimization model is written using the tools pulp and python. More information is available at http://ricercaoperativa.blogspot.com/2007/08/pulp-un-valido-strumento-per-la.html (in Italian).
